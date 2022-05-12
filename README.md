@@ -5,11 +5,16 @@ Create a Choose your own adventure in a Text based environment
 
 Ex. 
 TERMINAL: What is your name?
+
 INPUT: Karl Marx
 
+
 TERMINAL: Welcome to the beginning of your adventure.
+
 TERMINAL: You leave your house and exit the village. As you walk down the road you are presented with a fork in the road. Do you go left or right?
+
 TERMINAL: 1: Left
+
 TERMINAL: 2: Right
 
 INPUT: 2
