@@ -4,6 +4,7 @@ Create a Choose your own adventure in a Text based environment
 * The next options presented to the play should depend on the options chosen from players in previous questions.
 
 Ex. 
+
 TERMINAL: What is your name?
 
 INPUT: Karl Marx
